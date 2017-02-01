@@ -1,0 +1,11 @@
+{
+  "name": "ejemplo",
+  "version": "0.0.1",
+  "description": "Ejercicio de prueba",
+  "private": true,
+  "dependencies": {
+    "coffee-script": "1.12.3",
+    "ejs": "2.5.5",
+    "express": "^4.14.1"
+  }
+}
